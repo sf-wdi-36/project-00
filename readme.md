@@ -47,8 +47,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### When is it due?
 
-* **Assigned:** Friday, Nov 6th
-* **Due:** Monday, Nov 9th @ 9:17am
+* **Assigned:** Friday, March 3
+* **Due:** Monday, March 6 @ 9:17am
 
 ---
 
