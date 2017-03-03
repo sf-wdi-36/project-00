@@ -117,7 +117,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 ###### How do I turn in the project?
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1HF3ZA0Mdw0HGXJU3Sid14zl2qZHCAIg0X1gwFQNPSVE/edit?usp=sharing" target="_blank">this spreadsheet</a>.
+* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1sf3u_710GwmYLBM3Az6ZLyr0abDyUClHUePopsCmbSU/edit#gid=0" target="_blank">this spreadsheet</a>.
 
 ## Bonus
 
@@ -151,4 +151,4 @@ These feature ideas are for "extra credit"! **Don't focus on them until you've h
 
 ###### How will I get feedback from instructors?
 
-See the [feedback doc](feedback.md) for details.
+We will give feedback verbally on Monday and as comments/pull requests to your GitHub repos after submission.
